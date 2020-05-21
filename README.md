@@ -1,2 +1,3 @@
 # Run Buddy Website 
-# Files include css, assets, html, mockup png 
+Fitness Site 
+# Files include css, assets, html, mockup jpg
