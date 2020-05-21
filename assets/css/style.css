@@ -97,6 +97,8 @@ section {
 }
 /* Hero Style End */
 
+/* What Style Begins */
+
 .intro {
     text-align: center;
 }
@@ -154,6 +156,9 @@ section {
 .steps span {
     font-size: 38px;
 }
+/*What style ends */
+
+/*Trainers style begins*/
 
 .trainers {
     text-align: center;
@@ -201,6 +206,52 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+/* Trainer style ends */
+
+/*Reach Out Style Starts */
+
+.contact {
+    text-align: center;
+    background: #024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+
+.contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+}
+
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+}
+
+.contact-info a {
+    color: #fce138;
+}
+
+/* Reach Out Style Ends */
+
 footer {
     background: #fce138;
     width: 100%;
