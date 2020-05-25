@@ -1,3 +1,5 @@
-# Run Buddy Website 
-Fitness Site 
-# Files include css, assets, html, mockup jpg
+RUN BUDDY 
+A fitness website for people interested in signing up to take personal training classes.
+
+
+
