@@ -1,11 +1,16 @@
-RUN BUDDY 
-A fitness website for people interested in signing up to take personal training classes.
+# RUN BUDDY 
 
-SITE MOCK-UP: 
-https://github.com/bdamota/Run-Buddy/blob/master/050-mock-up.jpg
+## Purpose 
+A website that offers fitness training services.
 
-URL LINK:
+## Built With 
+* HTML 
+* CSS 
+
+## Website 
 https://bdamota.github.io/Run-Buddy/
 
+## Contribution 
+Made with ❤ by Briana daMota
 
 
