@@ -244,8 +244,11 @@ section {
 
 /*Service Plans Style Start */
 
-.service-grid-containter {
-    display: grid;
+.service-grid-container {
+   display: grid;
+   grid-template-columns: 210px 210px;
+   grid-template-rows: 60px 60px 60px;
+   grid-gap: 2px;
 }
 
 .service-grid-item {
