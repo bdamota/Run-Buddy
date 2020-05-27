@@ -1,12 +1,12 @@
 
-/* apply to all <elements> */
+/* Apply to all <elements> */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* apply styles to <header> */
+/* Apply styles to <header> */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -71,7 +71,7 @@ section {
     padding: 20px;
     border: solid 3px #024e76;
     width: 40%;
-   margin: 3.5%;
+    margin: 3.5%;
 }
 
 .hero-form h3 {
@@ -121,7 +121,7 @@ section {
 }
 /* Hero Style End */
 
-/* What Style Begins */
+/* What Style Start */
 .section-title {
     font-size: 48px;
     color: #024e76;
@@ -200,11 +200,9 @@ section {
     align-items: center;
     justify-content: space-between;
 }
+/* What Style End */
 
-/*What style ends */
-
-/*Trainers style begins*/
-
+/* Trainers Style Start */
 .trainers {
     width: 100%;
     margin: 0 auto;
@@ -242,9 +240,26 @@ section {
 .trainer-bio p {
     font-size: 17px;
 }
-/* Trainer style ends */
+/* Trainers Style End */
 
-/*Reach Out Style Starts */
+/*Service Plans Style Start */
+
+.service-grid-containter {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
+/* Service Plans Style End */
+
+
+/*Reach Out Style Start */
 
 .contact {
     background: #024e76;
@@ -311,9 +326,9 @@ section {
     color: #fce138;
 }
 
-/* Reach Out Style Ends */
+/* Reach Out Style End */
 
-/* apply styles to <footer> */
+/* Apply styles to <footer> */
 footer {
     display: flex;
     justify-content: space-between;
