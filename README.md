@@ -7,6 +7,12 @@ A website that offers fitness training services.
 * HTML 
 * CSS 
 
+## Link to Mock-up 
+https://github.com/bdamota/Run-Buddy/blob/master/050-mock-up.jpg
+
+## Screenshot of Final Version 
+
+
 ## Website 
 https://bdamota.github.io/Run-Buddy/
 
